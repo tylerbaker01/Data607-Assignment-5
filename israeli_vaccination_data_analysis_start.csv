@@ -1,0 +1,27 @@
+﻿Age,Population %,,Severe Cases,,Efficacy
+,"Not Vax
+%","Fully Vax
+%","Not Vax
+per 100K
+
+
+p","Fully Vax
+per 100K",vs. severe disease
+<50,"1,116,834","3,501,118",43,11,
+ ,23.3%,73.0%,,,
+>50,"186,078","2,133,516",171,290,
+,7.9%,90.4%,,,
+,,,,,
+,,,,,
+,,,,,
+Definitions,,,,,
+,Severe Cases = hospitalized,,,,
+,Efficacy vs. severe disease = 1 - (% fully vaxed severe cases per 100K / % not vaxed severe cases per 100K),,,,
+,,,,,
+(1) Do you have enough information to calculate the total population?  What does this total population represent?,,,,,
+(2) Calculate the Efficacy vs. Disease; Explain your results.,,,,,
+"(3) From your calculation of efficacy vs. disease, are you able to compare the rate of severe cases in unvaccinated individuals to that in vaccinated individuals?",,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
